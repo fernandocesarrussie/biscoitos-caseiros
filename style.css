@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+.header-container{
+
+}
+.header-box-fixed{
+    max-width: 1640px;
+    margin: auto;
+    width: 100vw;
+    height: 7vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-box-text{
+
+}
+.header-box-contact{
+    width: 445px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-box-whastapp{
+    width: 240px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header-box-doubt{
+    width: 190px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header-box-a{
+    background-color: #F2DBF0;
+}
+.header-box-max{
+    max-width: 1640px;
+    margin: auto;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-box1{
+    width: 65vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-box-logo{
+    font-size: 3.3rem;
+}
+.search{
+    background-image: url(./assets/Layer\ 3.svg);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: 0.5vw center;
+    width: 260px;
+    height: 44px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 50px;
+}
+.header-box2{
+    width: 10vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-btn-login{
+    width: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-nav{
+    max-width: 1640px;
+    margin: auto;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-list{
+    width: 26vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.item-list-header{
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.header-box-social{
+
+}
+.main-container{
+    max-width: 1640px;
+    margin: auto;
+}
+.main-banner{
+    display: flex;
+    background-image: url(./assets/fundo\ doces.png);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    height: 64vh;
+}
+.main-text-banner{
+    position: relative;
+    top: 240px;
+    left: 130px;
+    width: 40vw;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.title-banner{
+    font: normal normal normal 72px/87px Fredoka One;
+}
+.paragraph-banner{
+    font-size: 3.3rem;
+    font-weight: 200;
+}
+.btn-banner{
+
+}
+.main-box-info{
+    height: 30vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.main-info-pickup{
+    width: 20vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+.main-info-delivery{
+    width: 20vw;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+.main-info-gift{
+    width: 20vw;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+.divisor{
+    width: 0;
+    height: 173px;
+    border: 2px solid #707070;
+}
+.text-info{
+
+}
+.title-text-info{
+    width: 150px;
+    font: normal normal 200 1.25rem/27px Nunito;
+    letter-spacing: -0.5px;
+    font-weight: 200;
+}
+.paragraph-text-info{
+    font: normal normal bold 0.938rem/20px Nunito;
+    letter-spacing: -0.38px;
+    font-weight: 800;
+}
+.main-box-cookies{
+
+}
+.cookies-text{
+
+}
+.cookies-title{
+
+}
+.box-card-cookies{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.card-cookies{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img-cookies{
+    width: 75%;
+}
+.title-card{
+
+}
